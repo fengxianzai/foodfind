@@ -12,13 +12,17 @@ vue2+vue-router+vue-resource+webpack+ES6+flex
  4. npm run dev
 
 # 项目展示
-### 首页
+#### 首页
 ![首页][1]
 
-### 我的
+#### 我的
 ![我的][2]
+
+#### 注册
+![登录注册][3]
   
 
 
   [1]: http://oz0zymh7k.bkt.clouddn.com/home.jpg
   [2]: http://oz0zymh7k.bkt.clouddn.com/mine.png
+  [3]: http://oz0zymh7k.bkt.clouddn.com/login.png
