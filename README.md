@@ -13,8 +13,10 @@ vue2+vue-router+vue-resource+webpack+ES6+flex
 
 # 项目展示
 # 项目展示
+### app首页
 ![首页][1]
-  
+[1]: http://oz0zymh7k.bkt.clouddn.com/home.jpg
 
-
-  [1]: http://oz0zymh7k.bkt.clouddn.com/home.jpg
+### 我的
+![我的][2]
+[2]: http://oz0zymh7k.bkt.clouddn.com/mine.png
